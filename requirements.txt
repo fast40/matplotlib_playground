@@ -7,5 +7,8 @@ numpy==2.3.3
 packaging==25.0
 pillow==11.3.0
 pyparsing==3.2.4
+pyqt6==6.9.1
+pyqt6-qt6==6.9.2
+pyqt6-sip==13.10.2
 python-dateutil==2.9.0.post0
 six==1.17.0
